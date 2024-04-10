@@ -1,5 +1,24 @@
 # Tangled
-This is a Next.js project bootstrapped with create-next-app.
+
+## Project Objectives
+
+### Secure Management of Electronic Health Records (EHR) and Supply Chain Management
+
+The primary objective of this project is to develop a robust system for securely managing Electronic Health Records (EHR) while also integrating efficient supply chain management processes. This entails implementing encryption, access controls, and audit trails to ensure the confidentiality, integrity, and availability of sensitive health data. Additionally, supply chain management functionalities will be incorporated to streamline the procurement, distribution, and tracking of medical supplies and pharmaceuticals.
+
+### Enable Clinical Trial Management and Telemedicine Services
+
+Another key objective is to enable efficient management of clinical trials and facilitate telemedicine services. This involves creating a platform where researchers and healthcare professionals can collaborate on clinical trials, manage participant data securely, and monitor trial progress effectively. Additionally, telemedicine functionalities will be developed to allow remote consultations, diagnoses, and treatment plans, enhancing accessibility to healthcare services.
+
+### Maintain Decentralized Credentialing and Licensing, Insurance and Billing Systems
+
+To ensure regulatory compliance and streamline administrative processes, the project aims to maintain decentralized systems for credentialing and licensing, as well as insurance and billing. By decentralizing these systems, it becomes easier to verify credentials, manage licenses, process insurance claims, and handle billing securely while minimizing the risk of data breaches and fraud.
+
+### Foster Secure and Private Research and Collaboration Efforts
+
+Lastly, the project aims to foster secure and private research and collaboration efforts within the healthcare community. This involves implementing encryption, access controls, and secure communication channels to protect sensitive research data and facilitate collaboration among researchers, clinicians, and other stakeholders. By prioritizing security and privacy, the platform will encourage greater collaboration and knowledge sharing while safeguarding intellectual property and patient confidentiality.
+
+---
 
 ### Getting Started
 
